@@ -1,2 +1,2 @@
 # ntfywinservice
-A new ntfy windows service via python programming language.
+A service program that can recive ntfy messages. 
